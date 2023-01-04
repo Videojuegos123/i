@@ -1,0 +1,95 @@
+<!Doctype html>
+<html>
+<head>
+<title>Practica</title>
+<style type="text/css">
+			
+			* {
+				margin:0px;
+				padding:0px;
+			}
+			
+			#header {
+				margin:auto;
+				width:500px;
+				font-family:Arial, Helvetica, sans-serif;
+			}
+			
+			ul, ol {
+				list-style:none;
+			}
+			
+			.nav > li {
+				float:left;
+			}
+			
+			.nav li a {
+				background-color:#000;
+				color:#fff;
+				text-decoration:none;
+				padding:10px 12px;
+				display:block;
+			}
+			
+			.nav li a:hover {
+				background-color:#434343;
+			}
+			
+			.nav li ul {
+				display:none;
+				position:absolute;
+				min-width:140px;
+			}
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			.nav li ul li {
+				position:relative;
+			}
+			
+			.nav li ul li ul {
+				right:-140px;
+				top:0px;
+			}
+			
+		</style>
+</head>
+<body>
+<ul class="nav">
+				<li><a href="EXAMEN.html">Inicio</a></li>
+				<li><a href="">Mas Informacion</a>
+					<ul>
+						<li><a href="TIPOS DE VIDEOJUEGOS.html">Tipos de videojuegos</a></li>
+						<li><a href="JUEGOS POPULARES EN EL 2022.HTML">Juegos populares en el 2022</a></li>
+						<li><a href="HISTORIA DE LOS VIDEOJUEGOS.html">Historia de los videojuegos</a></li>
+					</ul>
+				</li>
+				<li><a href="">Acerca de</a>
+					<ul>
+						<li><a href="LA REALIDAD VIRTUAL.html">La realidad virtual</a></li>
+						<li><a href="LOS VIDEOJUEGOS EN LINEA.html">Los videojuegos en linea</a></li>
+						<li><a href="LAS CONSOLAS DE VIDEOJUEGOS.html">Las consolas de videojuegos</a></li>
+					</ul>
+				</li>
+				<li><a href="CONTACTO.html">Contacto</a></li>
+			</ul>
+		</div>
+<br>
+<br>
+<br>
+<h1><center>Videojuegos</center></h1>
+<br>
+<center><img src="a.jpeg"width="400"height="200"></center>
+<br>
+<center><h3>¿Que son los videojuegos?</h3></center>
+<br>
+<p aling="left"> Es un juego electrónico en el que una o más personas interactúan por medio de un controlador, con un dispositivo que muestra imágenes de video.​ Este dispositivo electrónico, conocido genéricamente como «plataforma», puede ser una
+computadora, una máquina de arcade, una videoconsola o un dispositivo portátil, como por ejemplo un teléfono móvil, teléfono inteligente o tableta. La industria de los videojuegos es una de las principales en el mundo del arte y del
+entretenimiento.</p>
+<p aling="left">Al dispositivo de entrada, usado para manipular un videojuego se le conoce como controlador o mando, y varía dependiendo de la plataforma. Por ejemplo, un controlador podría únicamente consistir de un botón y una palanca de mando o joystick, mientras otro podría presentar una docena de botones y una o más palancas, lo que llamamos mando. Los primeros juegos informáticos solían hacer uso de un teclado para llevar a cabo la interacción, o bien requerían que el usuario adquiriera un mando con un botón como mínimo.2​ Muchos juegos de computadora modernos permiten o exigen que el usuario utilice un teclado y un ratón de forma simultánea. Generalmente los videojuegos hacen uso de otras maneras, aparte de la imagen, de proveer la interactividad e información al jugador. El audio es casi universal, usándose dispositivos de reproducción de sonido, tales como altavoces y auriculares. Otro tipo de realimentación se hace a través de periféricos hápticos que producen vibración o retroalimentación de fuerza.</p>
+<center><img src="ns.jpg"width="400"height="200"></center>
+<div id="header">
+
+			
